@@ -18,3 +18,7 @@ valor3 = 3
 valor = 4
 
 #Hola mundo espero que esten bien
+
+#Comentario 1 
+#Comentario 2
+#Comentario 3
