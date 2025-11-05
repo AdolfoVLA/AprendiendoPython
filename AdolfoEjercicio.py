@@ -8,4 +8,14 @@ print("El apellido es:", apellido)
 apellido2 = "Sandoval"
 print("El otro apellido")
 
+numeroTelefono = "86083879"
 correo = "adolfovargas@gmail.com"
+paisResidencia = "Costa Rica"
+
+
+#Hola mundo espero que esten bien
+
+valor1 = 1
+valor2 = 2
+valor3 = 3
+valor = 4
