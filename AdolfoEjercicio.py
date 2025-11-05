@@ -1,5 +1,5 @@
 
-nombrePersona = "Adolfo"
+nombrePersona = "Johel Adolfo"
 print("El nombre es:", nombrePersona)
 
 apellido = "Vargas"
