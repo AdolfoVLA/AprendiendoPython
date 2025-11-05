@@ -7,3 +7,5 @@ print("El apellido es:", apellido)
 
 apellido2 = "Sandoval"
 print("El otro apellido")
+
+correo = "adolfovargas@gmail.com"
