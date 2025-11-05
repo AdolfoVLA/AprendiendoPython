@@ -12,5 +12,9 @@ numeroTelefono = "86083879"
 correo = "adolfovargas@gmail.com"
 paisResidencia = "Costa Rica"
 
+prueba1 = 1
+prueba2 = 2
+prueba3 = 3
+
 
 #Hola mundo espero que esten bien
